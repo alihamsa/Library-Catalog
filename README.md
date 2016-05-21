@@ -2,7 +2,7 @@
 
 This project will be used to keep stack of a library catalog for a school.
 
-This app will give a user the abiligy to search for books that are available for checkout.
+This app will give a user the ability to search for books that are available for checkout.
 
 This app will give the ability to checkout the book and initialize a due date for the person of interest.
 
